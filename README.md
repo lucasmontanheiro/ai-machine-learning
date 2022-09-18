@@ -43,9 +43,36 @@ Needs a knowledgeable tutor
 Difference Between Independent and Dependent Variables in Machine Learning
 Independent variables (also referred to as Features) are the input for a process that is being analyzes. Dependent variables are the output of the process.
 
-Steps
-- Create a Training Set
+#### Steps
+1) Collect Training Data
+2) Train Classifier
+3) Make Predictions
 
+This code represents the ML to tell the difference between Apples and Oranges. 
+
+Training Data
+| Weight | Texture | Label  |
+|--------|---------|--------|
+| 150g   | Bumpy   | Orange |
+| 170g   | Bumpy   | Orange |
+| 140g   | Smooth  | Apple  |
+| 130g   | Smooth  | Apple  |
+
+```
+from sklearn import tree
+
+# 0 is for Bumpy, 1 is for Smooth
+features = [[140, 1], [130, 1], [150, 0], [170, 0]]
+
+# 0 is for Apple, 1 is for Oranges
+labels = [0, 0, 1, 1]
+
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features, labels)
+
+# Trying to predict if a 150g, Bumpy fruit if an Apple or an Orange 
+print clf.predict([[150, 0]])
+```
 
 **You know a lot more about the data.**
 
