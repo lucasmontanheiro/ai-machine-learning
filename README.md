@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning
 
 ## Introduction
 
@@ -74,6 +74,10 @@ clf = clf.fit(features, labels)
 print clf.predict([[150, 0]])
 ```
 
+#### Analyzing the Results
+
+![Decision Tree](img/tree.png)
+
 **You know a lot more about the data.**
 
 
@@ -114,3 +118,6 @@ States = set environment
 Actions = responses
 Quality = Q
 
+## Resources
+- https://www.youtube.com/watch?v=cKxRvEZd3Mw
+- https://www.youtube.com/watch?v=elojMnjn4kk
