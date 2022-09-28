@@ -4,11 +4,29 @@
 
 Machines perform routine tasks at incredible speeds, but still require humans to do the actual thinking.
 
+Themes:
+- Regression
+- Loss
+- Generalization
+- Representation
+- Regularization
+- Logistic Regression
+- Classification
+- Introduction to Neural Networks
+- Multi-Class Neural Networks
+- Embeddings
+- Production Machine Learning Systems
+- Machine Learning Fairness and Remediating Bias
+- Testing and Debugging Models
+
+
 ## Steps
 
 *Problem → Create rule → Apply rule → Feedback → Adjust rule*
 
 In ML, you don't create explicit rules. ML prepares you to perform math tasks associated with algorithms used in machine learning to make either predictions or classifications from your data. 
+
+
 
 ## Different types of Machine Learning
 
