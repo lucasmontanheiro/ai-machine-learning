@@ -132,6 +132,7 @@ To avoid:
 
 
 ## Resources
-- https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
-- https://www.youtube.com/watch?v=cKxRvEZd3Mw
-- https://www.youtube.com/watch?v=elojMnjn4kk
+- [X] [Neural Networks](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+- [X] [Google Developers: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+- [X] [Data School: What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [ ] [MIT: MATHEMATICS OF MACHINE LEARNING](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)
