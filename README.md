@@ -136,3 +136,4 @@ To avoid:
 - [X] [Google Developers: Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 - [X] [Data School: What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
 - [ ] [MIT: MATHEMATICS OF MACHINE LEARNING](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/)
+- [ ] [Linkeding Learning: Python for Data Science Essential Training Part 2](https://www.linkedin.com/learning/python-for-data-science-essential-training-part-2?u=56685617)
