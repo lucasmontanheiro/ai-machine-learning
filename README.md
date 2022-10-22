@@ -128,6 +128,14 @@ To avoid:
 - If the feature distribution is ~50%/~50, it's useless. That will make the model confused.
 - Remove redundant information. Height in cm and height in mi are related, so they'll be redundant to the model
 
+## Popular ML Algorithms
+
+- Decision trees
+- K-nearest neighbor
+- K-mean clustering
+- Regression
+- Naive Bayes
+
 
 
 
