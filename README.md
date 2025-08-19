@@ -1,3 +1,102 @@
+```
+Artificial Intelligence (AI)
+│
+├── Symbolic AI (Good Old-Fashioned AI, GOFAI)
+│   ├── Rule-Based Systems
+│   │   ├── Expert Systems (e.g., MYCIN, DENDRAL)
+│   │   └── Production Rules (IF-THEN logic)
+│   ├── Knowledge Representation
+│   │   ├── Knowledge Graphs
+│   │   ├── Ontologies
+│   │   └── Semantic Web
+│   └── Automated Reasoning
+│       ├── Logic Programming (e.g., Prolog)
+│       └── Constraint Solvers
+│
+├── Machine Learning (ML)
+│   ├── Traditional ML
+│   │   ├── Linear / Logistic Regression
+│   │   ├── Decision Trees
+│   │   ├── Random Forests
+│   │   ├── Support Vector Machines (SVMs)
+│   │   ├── k-Nearest Neighbors (kNN)
+│   │   ├── Naïve Bayes
+│   │   └── Clustering (K-Means, DBSCAN, Hierarchical)
+│   │
+│   ├── Deep Learning
+│   │   ├── Feedforward Neural Networks (FNNs)
+│   │   ├── Convolutional Neural Networks (CNNs)
+│   │   │   ├── Image Classification
+│   │   │   ├── Object Detection
+│   │   │   └── Segmentation
+│   │   ├── Recurrent Neural Networks (RNNs)
+│   │   │   ├── LSTMs
+│   │   │   └── GRUs
+│   │   ├── Transformer Models
+│   │   │   ├── BERT, RoBERTa (Encoders)
+│   │   │   ├── GPT series (Decoders / LLMs)
+│   │   │   └── Encoder-Decoder (T5, BART)
+│   │   ├── Generative Models
+│   │   │   ├── Variational Autoencoders (VAEs)
+│   │   │   ├── Generative Adversarial Networks (GANs)
+│   │   │   └── Diffusion Models
+│   │   │       ├── Stable Diffusion
+│   │   │       ├── DALL·E
+│   │   │       └── Imagen, MidJourney
+│   │   └── Self-Supervised Learning
+│   │       ├── Contrastive Learning (SimCLR, MoCo)
+│   │       └── Masked Prediction (BERT, MAE)
+│   │
+│   └── Reinforcement Learning (RL)
+│       ├── Value-Based Methods
+│       │   └── Q-Learning, Deep Q-Networks (DQN)
+│       ├── Policy-Based Methods
+│       │   └── Policy Gradients, Actor-Critic
+│       ├── Model-Based RL
+│       └── Notable Systems
+│           ├── AlphaGo / AlphaZero
+│           ├── MuZero
+│           └── OpenAI Five
+│
+├── Foundation Models (Large-Scale, Pretrained)
+│   ├── Large Language Models (LLMs)
+│   │   ├── GPT (OpenAI)
+│   │   ├── Claude (Anthropic)
+│   │   ├── LLaMA (Meta)
+│   │   ├── Gemini (Google DeepMind)
+│   │   └── Mistral, Falcon, etc.
+│   │
+│   ├── Vision Foundation Models
+│   │   ├── CLIP
+│   │   ├── DINO
+│   │   └── SAM (Segment Anything)
+│   │
+│   ├── Multimodal Models
+│   │   ├── GPT-4 with Vision
+│   │   ├── Gemini (DeepMind)
+│   │   ├── Kosmos
+│   │   └── Flamingo
+│   │
+│   ├── Generative Foundation Models
+│   │   ├── Diffusion Models (Stable Diffusion, DALL·E, Imagen, MidJourney)
+│   │   └── Hybrid Generators (VAEs, GAN-based)
+│   │
+│   └── Specialized Foundation Models
+│       ├── Audio: Whisper (speech recognition), MusicLM
+│       ├── Biology: AlphaFold (protein folding)
+│       ├── Robotics/Control: RT-1, ALOHA
+│       └── Scientific Models: Weather, Chemistry, Physics simulators
+│
+└── Hybrid AI
+    ├── Neuro-Symbolic AI
+    │   └── Combines symbolic reasoning + neural networks
+    └── Knowledge-Augmented Models
+        ├── Retrieval-Augmented Generation (RAG)
+        ├── Tools + APIs integration (agents)
+        └── Memory-Augmented Networks
+```
+
+
 # Machine Learning Cheat Sheet
 
 ## Introduction
