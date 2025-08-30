@@ -3,10 +3,10 @@
 How do I improve my Score?
 1. Learn more about the data
 2. Experiment
-   a. deign / Create some new features
-   b. Try different pre-processing
-   c. Try different types of ML models
-   d. Combine multiple models (ensemble)
+   - deign / Create some new features
+   - Try different pre-processing
+   - Try different types of ML models
+   - Combine multiple models (ensemble)
 3. Learn from other codes and ideas
 
 ## Models
